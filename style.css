@@ -118,6 +118,7 @@
     border-radius: 22.5px;
     background-color: #20cdbb;
     text-align: center;
+    cursor: pointer;
 }
 
 .Log-In {
